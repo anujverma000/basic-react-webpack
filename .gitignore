@@ -6,3 +6,4 @@ npm-debug.log*
 lib-cov
 coverage
 .DS_Store
+build/
