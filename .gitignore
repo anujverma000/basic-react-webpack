@@ -1,0 +1,8 @@
+.idea/
+node_modules/
+logs
+*.log
+npm-debug.log*
+lib-cov
+coverage
+.DS_Store
